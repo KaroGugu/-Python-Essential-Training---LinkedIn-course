@@ -1,2 +1,2 @@
 # -Python-Essential-Training---LinkedIn-course
-Here I'm adding the programms from Python Essential Training LinkedIn Learning course
+Here I store my programs from Python Essential Training LinkedIn Learning course
